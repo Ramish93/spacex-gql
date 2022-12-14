@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.card img {
+  height: 200px;
+}
+.card {
+  margin-bottom: 20px;
+}
+.rocket-info {
+  margin: 20px;
+  text-align: center;
+}
+.Main--header__class {
+  font-size: 68px;
+  text-align: center;
+  color: #fff;
+  margin: 30px 0;
+}
+.btn__delete {
+  float: right;
+}
