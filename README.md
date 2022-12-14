@@ -4,4 +4,4 @@
 2. cd into spacex folder which is frontend.
 3. run npm install
 4. npm start.
-5. cd into gql_server foler which is backend and do point 3 and 4 again.
+5. cd into gql_server folder which is backend and do point 3 and 4 again.
